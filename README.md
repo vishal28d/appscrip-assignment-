@@ -60,3 +60,8 @@ Splash Screen: Added a splash screen with the app logo for a polished user exper
 <img src="https://github.com/user-attachments/assets/8537fdc2-c523-472d-bef5-bf4e654985a0" width="200" />
 <img src="https://github.com/user-attachments/assets/3615b208-8256-4ebb-9735-375907528719" width="200" />
 
+
+https://github.com/user-attachments/assets/40997a33-62e7-4fcf-aed6-e37602ba7c17
+
+
+
